@@ -8,4 +8,6 @@
 
 Greeting.create(message: "Hello!")
 Greeting.create(message: "Hi there!")
-# Add more greetings as needed
+Greeting.create(message: "Greetings!")
+Greeting.create(message: "Hey!")
+Greeting.create(message: "Welcome!")
